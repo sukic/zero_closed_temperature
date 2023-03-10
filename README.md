@@ -7,3 +7,10 @@ https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998
 
 The problem is, that either the list of station nor the datasets are not directly downloadable. Developer consol (F12) must be used to find the URLs and get the download links.
 
+### Metrics
+    T - temperature (average)
+    TMA - temperature (max)
+    TMI - temperature (min)
+    SRA - precipitation
+    SNO - new snow height
+    SCE - total snow cover height
